@@ -22,10 +22,12 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
-              Software Engineer{" "}
+              	Engineer in computer systems{" "}
             </span>
-            based in State of Mexico, Mexico. Working towards creating software that
-            makes life easier and more meaningful.
+			 	focus on the back-end web develop,
+				also  have knowledge in  frameworks front-end like react, 
+				vue, etc. experiences with pattern design like single tone, mvc, flux, 
+				as well agile methodologies (scrum, kanban).
           </p>
           <Link
             to="projects"
