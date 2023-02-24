@@ -8,11 +8,12 @@ const skills = [
   { skill: "React" },
   { skill: "PHP" },
   { skill: "Next.js" },
-  { skill: "Tailwind CSS" },
-  { skill: "Git" },
+  { skill: "Tailwind" },
+  { skill: "MySql" },
   { skill: "Express.js" },
-  { skill: "GitHub" },
+  { skill: "Docker" },
   { skill: "Golang" },
+  { skill: "MongoDB" },
 ]
 
 const AboutSection = () => {

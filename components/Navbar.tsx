@@ -36,9 +36,8 @@ export default function Navbar() {
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
             <Link to="home">
-              <div className="container flex items-center space-x-2">
-				  		
-				<h1 className='text-center font-bold text-3xl'>Jaziel Perez</h1>
+              		<div className="container flex items-center space-x-2">	
+						  <h1 className='text-center font-bold text-3xl '>Jaziel Perez</h1>
               </div>
             </Link>
             <div className="md:hidden">
