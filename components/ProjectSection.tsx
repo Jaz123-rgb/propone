@@ -5,19 +5,19 @@ import {BsGithub, BsArrowUpRightSquare } from 'react-icons/bs'
 import SlideUp from './SlideUp'
 const projects = [
 	{
-		name: "Test one",
-		description: "Program to count in and outs in a shop",
-		image: "/a.jpeg",
-		github: "https://github.com/Jaz123-rgb/propone.git",
-		link: "https://propone-2o6a2l6fm-jaz123-rgb.vercel.app/", 
+		name: "Paimef",
+		description: "Platform to communicate and help children understand about violence and types of violence against women",
+		image: "/project-one.png",
+		github: "https://gitlab.com/KimberlyCl1012/sistema_paimef",
+		link: "https://paimef_semujeres.edomex.gob.mx/", 
 
 	},
 	{
-		name: "Test one",
-		description: "Program to count in and outs in a shop",
-		image: "/a.jpeg",
-		github: "https://github.com/Jaz123-rgb/propone.git",
-		link: "https://propone-2o6a2l6fm-jaz123-rgb.vercel.app/", 
+		name: "Dination systems",
+		description: "Platform for managing donations and products for women's defense area",
+		image: "/tow-test.png",
+		github: "https://gitlab.com/albarranman/smalmacencentral",
+		link: "", 
 
 	},
 	{
